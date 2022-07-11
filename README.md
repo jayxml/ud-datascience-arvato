@@ -48,7 +48,7 @@ The key Python libraries include,
 - Arvato Project Workbook.ipynb
   This is the Jupyter Notebook file that contains all the implementation of the project
     
-## 5. Published blog <a name=""blog></a>
+## 5. Published blog <a name="blog"></a>
 
 Read more project introduction, key data analaysis and learnings about this project from this [blog](https://#)
 
