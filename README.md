@@ -50,7 +50,7 @@ The key Python libraries include,
     
 ## 5. Published blog <a name="blog"></a>
 
-Read more project introduction, key data analaysis and learnings about this project from this [blog](https://#)
+Read more project introduction, key data analaysis and learnings about this project from this [project report](https://github.com/jayxml/ud-datascience-arvato/blob/main/Udacity%20Capstone%20-%20Arvato%20project%20report.pdf)
 
 ## 6. Licensing, authors, acknowledgements <a name="licensing"></a> 
   All datasets belong to AZ Direct GmbH, and the data is only allowed to be used in Bertelsmann Capstone project for the Udacity Data Science Nanodegree  program. Therefore, no dataset is uploaded. 
